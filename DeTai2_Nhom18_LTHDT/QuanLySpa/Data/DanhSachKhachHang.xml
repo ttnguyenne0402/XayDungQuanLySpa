@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachKhachHang>
+	<KhachHang>
+		<MaKH>KH001</MaKH>
+		<TenKH>Sĩ Nguyễn</TenKH>
+		<SoDienThoai>0901234567</SoDienThoai>
+		<DanhSachDichVu>
+			<MaDV>DV001</MaDV>
+			<MaDV>DV002</MaDV>
+			<MaDV>DV004</MaDV>
+		</DanhSachDichVu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH002</MaKH>
+		<TenKH>Hồ Xuân Hương</TenKH>
+		<SoDienThoai>0912345678</SoDienThoai>
+		<DanhSachDichVu>
+			<MaDV>DV005</MaDV>
+			<MaDV>DV007</MaDV>
+		</DanhSachDichVu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH003</MaKH>
+		<TenKH>RPT MCK</TenKH>
+		<SoDienThoai>0923456789</SoDienThoai>
+		<DanhSachDichVu>
+			<MaDV>DV001</MaDV>
+			<MaDV>DV002</MaDV>
+			<MaDV>DV003</MaDV>
+			<MaDV>DV004</MaDV>
+			<MaDV>DV008</MaDV>
+		</DanhSachDichVu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH004</MaKH>
+		<TenKH>Phạm Văn Dũng</TenKH>
+		<SoDienThoai>0934567890</SoDienThoai>
+		<DanhSachDichVu>
+			<MaDV>DV007</MaDV>
+			<MaDV>DV008</MaDV>
+			<MaDV>DV009</MaDV>
+		</DanhSachDichVu>
+	</KhachHang>
+	<KhachHang>
+		<MaKH>KH005</MaKH>
+		<TenKH>Võ Thị Hoa</TenKH>
+		<SoDienThoai>0945678901</SoDienThoai>
+		<DanhSachDichVu>
+			<MaDV>DV001</MaDV>
+			<MaDV>DV003</MaDV>
+			<MaDV>DV006</MaDV>
+			<MaDV>DV009</MaDV>
+			<MaDV>DV010</MaDV>
+		</DanhSachDichVu>
+	</KhachHang>
+</DanhSachKhachHang>

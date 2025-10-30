@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DTO_QuanLySpa.DTO_ChamSocBody">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dich Vu\DTO_ChamSocBody.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DTO_QuanLySpa.DTO_ChamSocSacDep">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dich Vu\DTO_ChamSocSacDep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO_QuanLySpa.DTO_DichVu">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAGIgAAAAAIAQAAAAAAIAAAAAAAAAAAAAAAAAAABgA=</HashCode>
+      <FileName>Dich Vu\DTO_DichVu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DTO_QuanLySpa.DTO_DuongSinhTriLieu">
+    <Position X="3.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAIAQAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dich Vu\DTO_DuongSinhTriLieu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DTO_QuanLySpa.Khach_Hang.DTO_KhachHang">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgABAAAAAAAAAQAAAAABAAAAAEAAAACAAAAQAAAAEEA=</HashCode>
+      <FileName>Khach Hang\DTO_KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DTO_QuanLySpa.DTO_IGiamGiaDichVu">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dich Vu\DTO_IGiamGiaDichVu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

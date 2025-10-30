@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|d:\\code\\detai2_nhom18_lthdt\\quanlyspa\\dto_quanlyspa\\sodoclass.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\sodoclass.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE37E95-8687-4081-B46C-A5232E616B68}|GUI_QuanLySpa\\GUI_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\gui_quanlyspa\\gui_quanlykhachhang_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE37E95-8687-4081-B46C-A5232E616B68}|GUI_QuanLySpa\\GUI_QuanLySpa.csproj|solutionrelative:gui_quanlyspa\\gui_quanlykhachhang_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B7B0-09D9-46CB-A326-50B6A12E81E4}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\bll_quanlyspa\\bll_danhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B7B0-09D9-46CB-A326-50B6A12E81E4}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|solutionrelative:bll_quanlyspa\\bll_danhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\dich vu\\dto_duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dich vu\\dto_duongsinhtrilieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\dich vu\\dto_chamsocsacdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dich vu\\dto_chamsocsacdep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\dich vu\\dto_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dich vu\\dto_dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD9F96D-8F75-4574-AE62-C18514C89F3E}|DAL_QuanLySpa\\DAL_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dal_quanlyspa\\dal_danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD9F96D-8F75-4574-AE62-C18514C89F3E}|DAL_QuanLySpa\\DAL_QuanLySpa.csproj|solutionrelative:dal_quanlyspa\\dal_danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD9F96D-8F75-4574-AE62-C18514C89F3E}|DAL_QuanLySpa\\DAL_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dal_quanlyspa\\dal_danhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD9F96D-8F75-4574-AE62-C18514C89F3E}|DAL_QuanLySpa\\DAL_QuanLySpa.csproj|solutionrelative:dal_quanlyspa\\dal_danhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5197B7B0-09D9-46CB-A326-50B6A12E81E4}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\bll_quanlyspa\\bll_danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5197B7B0-09D9-46CB-A326-50B6A12E81E4}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|solutionrelative:bll_quanlyspa\\bll_danhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\khach hang\\dto_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\khach hang\\dto_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\dich vu\\dto_chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dich vu\\dto_chamsocbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE37E95-8687-4081-B46C-A5232E616B68}|GUI_QuanLySpa\\GUI_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\gui_quanlyspa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE37E95-8687-4081-B46C-A5232E616B68}|GUI_QuanLySpa\\GUI_QuanLySpa.csproj|solutionrelative:gui_quanlyspa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\dto_quanlyspa\\dich vu\\dto_igiamgiadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{997CA868-E571-48DB-802A-3AADCB3042BF}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dich vu\\dto_igiamgiadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoDoClass.cd",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\SoDoClass.cd",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\SoDoClass.cd",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\SoDoClass.cd",
+              "RelativeToolTip": "DTO_QuanLySpa\\SoDoClass.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-10-30T10:41:35.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GUI_QuanLyKhachHang_DichVu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\GUI_QuanLySpa\\GUI_QuanLyKhachHang_DichVu.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLySpa\\GUI_QuanLyKhachHang_DichVu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\GUI_QuanLySpa\\GUI_QuanLyKhachHang_DichVu.cs",
+              "RelativeToolTip": "GUI_QuanLySpa\\GUI_QuanLyKhachHang_DichVu.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:34:44.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLL_DanhSachKhachHang.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\BLL_QuanLySpa\\BLL_DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLySpa\\BLL_DanhSachKhachHang.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\BLL_QuanLySpa\\BLL_DanhSachKhachHang.cs",
+              "RelativeToolTip": "BLL_QuanLySpa\\BLL_DanhSachKhachHang.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAASwKgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:30:06.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLL_DanhSachDichVu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\BLL_QuanLySpa\\BLL_DanhSachDichVu.cs",
+              "RelativeDocumentMoniker": "BLL_QuanLySpa\\BLL_DanhSachDichVu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\BLL_QuanLySpa\\BLL_DanhSachDichVu.cs",
+              "RelativeToolTip": "BLL_QuanLySpa\\BLL_DanhSachDichVu.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwHEAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:29:31.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL_DanhSachKhachHang.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DAL_QuanLySpa\\DAL_DanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLySpa\\DAL_DanhSachKhachHang.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DAL_QuanLySpa\\DAL_DanhSachKhachHang.cs",
+              "RelativeToolTip": "DAL_QuanLySpa\\DAL_DanhSachKhachHang.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:28:36.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_DanhSachDichVu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DAL_QuanLySpa\\DAL_DanhSachDichVu.cs",
+              "RelativeDocumentMoniker": "DAL_QuanLySpa\\DAL_DanhSachDichVu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DAL_QuanLySpa\\DAL_DanhSachDichVu.cs",
+              "RelativeToolTip": "DAL_QuanLySpa\\DAL_DanhSachDichVu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:28:02.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DTO_KhachHang.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Khach Hang\\DTO_KhachHang.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Khach Hang\\DTO_KhachHang.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Khach Hang\\DTO_KhachHang.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Khach Hang\\DTO_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:26:25.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DTO_DuongSinhTriLieu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_DuongSinhTriLieu.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Dich Vu\\DTO_DuongSinhTriLieu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_DuongSinhTriLieu.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Dich Vu\\DTO_DuongSinhTriLieu.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:22:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTO_IGiamGiaDichVu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_IGiamGiaDichVu.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Dich Vu\\DTO_IGiamGiaDichVu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_IGiamGiaDichVu.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Dich Vu\\DTO_IGiamGiaDichVu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:21:49.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTO_ChamSocBody.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocBody.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocBody.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocBody.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocBody.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:21:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_ChamSocSacDep.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocSacDep.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocSacDep.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocSacDep.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Dich Vu\\DTO_ChamSocSacDep.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:20:31.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTO_DichVu.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_DichVu.cs",
+              "RelativeDocumentMoniker": "DTO_QuanLySpa\\Dich Vu\\DTO_DichVu.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\DTO_QuanLySpa\\Dich Vu\\DTO_DichVu.cs",
+              "RelativeToolTip": "DTO_QuanLySpa\\Dich Vu\\DTO_DichVu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:19:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\GUI_QuanLySpa\\Program.cs",
+              "RelativeDocumentMoniker": "GUI_QuanLySpa\\Program.cs",
+              "ToolTip": "D:\\code\\DeTai2_Nhom18_LTHDT\\QuanLySpa\\GUI_QuanLySpa\\Program.cs",
+              "RelativeToolTip": "GUI_QuanLySpa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T06:16:05.087Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

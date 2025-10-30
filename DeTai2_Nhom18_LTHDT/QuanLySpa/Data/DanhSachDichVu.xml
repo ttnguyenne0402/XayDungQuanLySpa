@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DanhSachDichVu>
+	<DichVu loai="cham soc sac dep">
+		<MaDV>DV001</MaDV>
+		<TenDV>Cắt tóc</TenDV>
+		<GiaTien>200000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc sac dep">
+		<MaDV>DV002</MaDV>
+		<TenDV>Nhuộm tóc</TenDV>
+		<GiaTien>600000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc sac dep">
+		<MaDV>DV003</MaDV>
+		<TenDV>Uốn tóc</TenDV>
+		<GiaTien>800000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc body">
+		<MaDV>DV004</MaDV>
+		<TenDV>Massage body</TenDV>
+		<GiaTien>500000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc body">
+		<MaDV>DV005</MaDV>
+		<TenDV>Tắm trắng</TenDV>
+		<GiaTien>400000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc body">
+		<MaDV>DV006</MaDV>
+		<TenDV>Tẩy tế bào chết</TenDV>
+		<GiaTien>350000</GiaTien>
+	</DichVu>
+	<DichVu loai="duong sinh tri lieu">
+		<MaDV>DV007</MaDV>
+		<TenDV>Xông hơi</TenDV>
+		<GiaTien>300000</GiaTien>
+	</DichVu>
+	<DichVu loai="duong sinh tri lieu">
+		<MaDV>DV008</MaDV>
+		<TenDV>Thư giãn sâu</TenDV>
+		<GiaTien>550000</GiaTien>
+	</DichVu>
+	<DichVu loai="duong sinh tri lieu">
+		<MaDV>DV009</MaDV>
+		<TenDV>Chăm cứu</TenDV>
+		<GiaTien>700000</GiaTien>
+	</DichVu>
+	<DichVu loai="cham soc sac dep">
+		<MaDV>DV010</MaDV>
+		<TenDV>Chăm sóc da mặt</TenDV>
+		<GiaTien>450000</GiaTien>
+	</DichVu>
+</DanhSachDichVu>
